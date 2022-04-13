@@ -61,11 +61,11 @@ This is the project for day 1 of 30. The plan is to complete all 30 projects and
 ### Useful resources
 
 - [MDN](https://developer.mozilla.org/en-US/) - MDN Developer Network - great for JS documentation.
-- [Stack Overflow](stackoverflow.com) - Great resource if ever you get stuck with your code.
+- [Stack Overflow](https://www.stackoverflow.com) - Great resource if ever you get stuck with your code.
 
 ## Author
 
-- Website - [Amber Upshaw](github.com/AmberUpshaw)
-- Instagram - [@jsimone.codes](instagram.com/jsimone.codes)
+- Website - [Amber Upshaw](https://www.github.com/AmberUpshaw)
+- Instagram - [@jsimone.codes](https://www.instagram.com/jsimone.codes)
 
 
