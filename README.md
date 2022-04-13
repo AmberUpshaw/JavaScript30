@@ -1,6 +1,6 @@
 # JavaScript30 - JS Drum Kit Solution
 
-This is a solution to the [Drum Kit JS Project - #JavaScript30]](https://www.javascript30.com). 
+This is a solution to the [Drum Kit JS Project - #JavaScript30](https://www.javascript30.com). 
 
 ## Table of contents
 
